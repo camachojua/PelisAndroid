@@ -1,0 +1,8 @@
+# Práctica de API Mock (Android Avanzado)
+## Integrantes
+
+- Iván García
+- José Cándido
+- Juan Camacho
+
+:hearts:
