@@ -3,9 +3,10 @@
     android:layout_width="match_parent"
     android:layout_height="320dp"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="8dp"
     app:cardCornerRadius="16dp"
     android:elevation="16dp"
-    android:background="@color/teal_200"
+    android:backgroundTint="@color/cardview_shadow_end_color"
     android:id="@+id/tarjetaPelicula">
 
     <androidx.constraintlayout.widget.ConstraintLayout
